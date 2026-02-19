@@ -1,0 +1,17 @@
+Git >> version control
+
+v1
+v2
+v3
+
+
+git config --global user.name "Sushantkumar9786"
+git config --global user.email "shroffsushant729@gmail.com"
+
+git config --global color.ui auto
+
+git remote add origin https://github.com/Sushantkumar9786/GitDemo.git
+
+git pull origin main
+
+git add index GitAnd
