@@ -15,3 +15,6 @@ git remote add origin https://github.com/Sushantkumar9786/GitDemo.git
 git pull origin main
 
 git add index GitAnd
+
+create a new branch 
+git checkout -b "branchName"
